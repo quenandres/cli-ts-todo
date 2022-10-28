@@ -1,0 +1,29 @@
+{
+  "name": "cli-ts-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quenandres/cli-ts-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quenandres/cli-ts-todo/issues"
+  },
+  "homepage": "https://github.com/quenandres/cli-ts-todo#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "lowdb": "^5.0.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.2",
+    "@types/lowdb": "^1.0.11",
+    "typescript": "^4.8.4"
+  }
+}
